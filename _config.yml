@@ -1,0 +1,28 @@
+name: autenrieth sailing
+favicon: null
+layout_spectrum: 0.2912698264699429
+typography_spectrum: 0.43387964088469744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7275377984624356
+  lightness: 0.37354895868338645
+  saturation: 0.039017612813040614
+  rhythmicContrast: 0.5743075022473931
+purpose: []
