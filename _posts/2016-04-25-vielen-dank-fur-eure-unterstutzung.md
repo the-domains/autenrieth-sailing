@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Partner
-datePublished: '2016-04-25T06:07:13.909Z'
-dateModified: '2016-04-25T06:06:59.429Z'
+datePublished: '2016-04-25T06:30:03.374Z'
+dateModified: '2016-04-25T06:29:40.505Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-vielen-dank-fur-eure-unterstutzung.md
@@ -23,6 +23,6 @@ _type: Article
 
 ---
 Partner
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7e3248d-bc5c-4f97-8b41-f61902d2ffe8.png)
 
 Vielen Dank für eure Unterstützung!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c72769c-72a6-490a-8eb6-690ce7b4e443.png)
