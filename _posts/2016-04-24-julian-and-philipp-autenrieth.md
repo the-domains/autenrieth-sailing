@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Julian & Philipp Autenrieth'
-datePublished: '2016-04-25T06:50:31.209Z'
-dateModified: '2016-04-25T06:03:36.239Z'
+datePublished: '2016-04-25T07:28:10.697Z'
+dateModified: '2016-04-25T06:50:41.923Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-julian-and-philipp-autenrieth.md
