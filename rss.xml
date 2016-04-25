@@ -4,8 +4,15 @@
         <description><![CDATA[autenrieth sailing]]></description>
         <link>https://thegrid.ai/autenrieth-sailing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 22:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 05:56:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/autenrieth-sailing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6cf6c0e-9da3-4a75-b3e3-a0611d358555.jpg">]]></description>
+            <link>https://thegrid.ai/autenrieth-sailing/team/index.html</link>
+            <guid isPermaLink="false">a51eeae8-f367-4c93-a5cb-cba1f3bffe00</guid>
+            <pubDate>Mon, 25 Apr 2016 05:56:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d90f4aa3-891c-4c8c-9923-0d45c9aee7ff.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/autenrieth-sailing/news/index.html</link>
             <guid isPermaLink="false">acc55d01-c7d9-47d7-9f87-29c68a123987</guid>
             <pubDate>Sun, 24 Apr 2016 22:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6cf6c0e-9da3-4a75-b3e3-a0611d358555.jpg">]]></description>
-            <link>https://thegrid.ai/autenrieth-sailing/team/index.html</link>
-            <guid isPermaLink="false">a51eeae8-f367-4c93-a5cb-cba1f3bffe00</guid>
-            <pubDate>Sun, 24 Apr 2016 22:09:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
