@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Follow us on social media
-datePublished: '2016-04-28T18:16:13.763Z'
-dateModified: '2016-04-28T18:15:58.410Z'
+datePublished: '2016-04-28T18:19:51.478Z'
+dateModified: '2016-04-28T18:19:37.736Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-httpswwwfacebookcomautenriethsailing.md
@@ -27,4 +27,4 @@ Follow us on social media
 www.facebook.com/autenriethsailing
 
 www.twitter.com
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef1f6a16-2123-4b04-a199-8807373f565d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a17463a7-4803-4186-8b45-09095bbad111.jpg)
