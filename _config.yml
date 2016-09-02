@@ -11,14 +11,17 @@ color:
   saturation: 0.039017612813040614
   rhythmicContrast: 0.25
 opengraph:
-  image: null
-  type: null
-  appId: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/09e5e220-ae0a-42e1-baac-adc9e83f3434.png
+  type: Fanpage
+  appId: 'https://www.facebook.com/dieschautenrieth/'
 layout_spectrum: 0.75669
 analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ffe47e2-0297-4faf-916c-b9d5894cb9dc.jpg
 name: autenrieth sailing
 cta:
   domain: null
