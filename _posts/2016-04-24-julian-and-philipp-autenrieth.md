@@ -4,25 +4,26 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Julian & Philipp Autenrieth'
-datePublished: '2016-04-28T18:07:55.507Z'
-dateModified: '2016-04-28T18:04:19.182Z'
+description: Julian & Philipp Autenrieth
+datePublished: '2016-08-31T12:27:14.202Z'
+dateModified: '2016-08-31T12:27:13.662Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-24-julian-and-philipp-autenrieth.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
 starred: true
 url: julian-and-philipp-autenrieth/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71e90c0f-97b6-41f4-8ed2-72e20716b786.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe3bf4e38a856cf598fc9ebc0e0e80ff2dd44d9c.jpg)
 
 Julian & Philipp Autenrieth
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d90f4aa3-891c-4c8c-9923-0d45c9aee7ff.jpg)
