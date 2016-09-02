@@ -31,6 +31,9 @@ navigation:
   - name: Team
     id: a51eeae8-f367-4c93-a5cb-cba1f3bffe00
     type: content
+  - name: News
+    id: 24ae3a81-3b3d-4a1d-ad48-0d70f57fc24b
+    type: content
 favicon: null
 title: autenrieth-sailing
 description: Philipp & Julian Autenrieth
