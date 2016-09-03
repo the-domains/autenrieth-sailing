@@ -1,21 +1,21 @@
-typography_spectrum: 0.49774
+layout_spectrum: 0.75669
+typography_spectrum: 0.49428919865749776
 color:
   brandColors:
-    - '#cee9fe'
-    - '#819cb7'
-    - '#0f1217'
-    - '#de4358'
-    - '#5e5d62'
-  brandStrength: 0.25
-  lightness: 0.37354895868338645
-  saturation: 0.039017612813040614
-  rhythmicContrast: 0.25
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.06665998860262334
+  lightness: 0.8425353937782347
+  saturation: 0.8215627186000347
+  rhythmicContrast: 0.7505543462466449
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/09e5e220-ae0a-42e1-baac-adc9e83f3434.png
   type: Fanpage
   appId: 'https://www.facebook.com/dieschautenrieth/'
-layout_spectrum: 0.75669
 analytics:
   google: null
   facebook: null
